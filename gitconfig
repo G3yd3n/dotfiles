@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = soonteckl@outlook.com
+	name = soonteck ling
